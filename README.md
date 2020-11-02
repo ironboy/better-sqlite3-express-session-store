@@ -9,9 +9,10 @@ If you use [SQLite](https://www.sqlite.org/index.html) as your database and [bet
 
 
 ## Installation
-You need to have installed [express-session](https://www.npmjs.com/package/express-session) and [better-sqlite3](https://www.npmjs.com/package/express-session) first:
+You need to have installed [express](https://www.npmjs.com/package/express), [express-session](https://www.npmjs.com/package/express-session) and [better-sqlite3](https://www.npmjs.com/package/express-session) first:
 
 ```
+npm i express
 npm i express-session
 npm i better-sqlite3
 ```
