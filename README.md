@@ -48,7 +48,8 @@ app.use(session({
 ```
 
 ### Defaults
-Apart from your dbPath there are also other settings you can set.
+Apart from your dbPath there are also other settings you can adjust.
+
 The settings (listed together with their default values):
 
 ```js
