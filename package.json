@@ -1,6 +1,6 @@
 {
-  "name": "better-sqlite3-express-session-store",
-  "version": "1.0.0",
+  "name": "better-express-store",
+  "version": "1.0.1",
   "description": "A session store for express-session using the db driver better-sqlite3",
   "main": "index.js",
   "scripts": {
